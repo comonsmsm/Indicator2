@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^app-ads.txt$ https://twitter.com/comonsmsm [L,R=301]
