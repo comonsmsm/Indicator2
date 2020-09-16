@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^https://comonsmsm.github.io/Indicator2/app-ads.txt$ https://twitter.com/comonsmsm [L,R=301]
